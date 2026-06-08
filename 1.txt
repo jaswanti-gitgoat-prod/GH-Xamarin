@@ -1,0 +1,36 @@
+# AWS Access Key
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# GitHub Personal Access Token
+GITHUB_TOKEN=ghp_1234567890abcdefghijklmnopqrstuvwxyz
+
+# GitLab Token
+GITLAB_TOKEN=glpat-abcdefghijklmnopqrstuvwxyz123456
+
+# Slack Token
+SLACK_TOKEN=xoxb-123456789012-123456789012-abcdefghijklmnopqrstuvwx
+
+# Generic API Key
+API_KEY=1234567890abcdef1234567890abcdef
+
+# JWT Token
+JWT_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdCJ9.dGVzdHNpZ25hdHVyZQ
+
+# Private Key
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA1234567890abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLM
+-----END RSA PRIVATE KEY-----
+
+# Database Connection String
+DATABASE_URL=postgres://admin:SuperSecretPassword@localhost:5432/testdb
+
+# Basic Auth Credentials
+BASIC_AUTH=admin:password123
+
+# SendGrid API Key
+SENDGRID_API_KEY=SG.abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijklmnop
+
+# Twilio Auth Token
+TWILIO_AUTH_TOKEN=abcdef1234567890abcdef1234567890
