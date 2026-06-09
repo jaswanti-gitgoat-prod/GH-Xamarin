@@ -24,7 +24,7 @@ fn main() {
     println!("{}", contents);
 
     // Hardcoded Secret
-    let api_key = "sk_test_1234567890abcdef";
+//    let api_key = "sk_test_1234567890abcdef";
 
     println!("API Key: {}", api_key);
 
